@@ -1,0 +1,61 @@
+{
+    "editor.tabSize": 2,
+    "files.associations": {
+        "*.vue": "vue",
+        "*.ejs": "html",
+        "*.pug": "html",
+        "*.jsx": "html"
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.options": {
+        "extensions": [
+            ".js",
+            ".vue",
+            ".ejs",
+            ".pug",
+            ".jsx"
+        ]
+    },
+    "eslint.validate": [
+        {"language": "vue","autoFix": true},
+        "javascript",
+        "javascriptreact",
+        {"language": "ejs","autoFix": true},
+        {"language": "pug","autoFix": true},
+        {"language": "html","autoFix": true},
+        {"language": "vue-html","autoFix": true}
+    ],
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/dist": true
+    },
+    // "emmet.syntaxProfiles": {
+    //     "javascript": "jsx",
+    //     "vue": "html",
+    //     "pug": "html",
+    //     "ejs": "html",
+    //     "vue-html": "html"
+    // },
+    "window.zoomLevel": 0,
+    //"vsicons.projectDetection.autoReload": true,
+    //"typescript.check.tscVersion": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorBlinking": "smooth",
+    //"workbench.colorTheme": "Solarized Light",
+    //"workbench.iconTheme": "vscode-great-icons",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    //"tslint.autoFixOnSave": true,
+    // "editor.fontFamily": "'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    //"beautify.tabSize": 2,
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
+    //"typescript.extension.sortImports.maxNamedImportsInSingleLine": 5,
+    //"typescript.extension.sortImports.omitSemicolon": true,
+    "editor.codeLens": true,
+    "editor.snippetSuggestions": "top",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    //"react-native-storybooks.port": 6006
+  }
