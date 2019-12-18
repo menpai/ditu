@@ -18,6 +18,9 @@ jobs:
     #     FOLDER: build
     #     BUILD_SCRIPT: npm install && npm run build
 
+    - run: npm install
+    - run: npm run build
+
     - name: Build and Deploy
       uses: peaceiris/actions-gh-pages@v2
       env:
@@ -26,4 +29,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./build
-        BUILD_SCRIPT: npm install && npm run build
+        # BUILD_SCRIPT: npm install && npm run build
