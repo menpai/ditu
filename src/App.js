@@ -23,7 +23,7 @@ class App extends Component {
         height: 800
       },
       title: {
-        text: '金庸武侠门派分布图'
+        text: '金庸武侠门派分布图(update:2019.12.18)'
       },
       mapNavigation: {
         enabled: true,
