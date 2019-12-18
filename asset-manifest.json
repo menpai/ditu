@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ditu/static/css/main.f6cffc85.chunk.css",
-    "main.js": "/ditu/static/js/main.082c4c60.chunk.js",
-    "main.js.map": "/ditu/static/js/main.082c4c60.chunk.js.map",
+    "main.js": "/ditu/static/js/main.f50b504d.chunk.js",
+    "main.js.map": "/ditu/static/js/main.f50b504d.chunk.js.map",
     "runtime-main.js": "/ditu/static/js/runtime-main.dcb130d8.js",
     "runtime-main.js.map": "/ditu/static/js/runtime-main.dcb130d8.js.map",
     "static/js/2.359ad3e1.chunk.js": "/ditu/static/js/2.359ad3e1.chunk.js",
     "static/js/2.359ad3e1.chunk.js.map": "/ditu/static/js/2.359ad3e1.chunk.js.map",
     "index.html": "/ditu/index.html",
-    "precache-manifest.55cd5a662cf930305d58ec7f6fe3ec66.js": "/ditu/precache-manifest.55cd5a662cf930305d58ec7f6fe3ec66.js",
+    "precache-manifest.97ac8ab454b2ef3769da4f78e8a0510d.js": "/ditu/precache-manifest.97ac8ab454b2ef3769da4f78e8a0510d.js",
     "service-worker.js": "/ditu/service-worker.js",
     "static/css/main.f6cffc85.chunk.css.map": "/ditu/static/css/main.f6cffc85.chunk.css.map",
     "static/js/2.359ad3e1.chunk.js.LICENSE": "/ditu/static/js/2.359ad3e1.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dcb130d8.js",
     "static/js/2.359ad3e1.chunk.js",
     "static/css/main.f6cffc85.chunk.css",
-    "static/js/main.082c4c60.chunk.js"
+    "static/js/main.f50b504d.chunk.js"
   ]
 }
