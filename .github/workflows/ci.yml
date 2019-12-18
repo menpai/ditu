@@ -1,4 +1,4 @@
-name: Auto Build menpai APP 
+name: Auto Build Menpai App
 on:
   push:
     branches:
@@ -26,7 +26,6 @@ jobs:
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        # GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./build
-        # BUILD_SCRIPT: npm install && npm run build
