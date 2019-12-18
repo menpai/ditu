@@ -57,7 +57,7 @@ class App extends Component {
         },
         {
           type: 'mappoint',
-          name: '如果您对位置精确度有疑欢迎提交issue，也欢迎提PR创建新门派 https://github.com/menpai/ditu',
+          name: '如果您对位置精确度有疑欢迎提交issue，欢迎提PR创建新门派 https://github.com/menpai/ditu',
           data: [],
           marker: {
             enabled: true,
