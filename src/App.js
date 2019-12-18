@@ -51,13 +51,13 @@ class App extends Component {
         {
           name: 'menpaiMap',
           mapData: mapCnData,
-          borderColor: '#CCC',
+          borderColor: '#cccccc',
           nullColor: 'rgba(200, 200, 200, 0.3)',
           showInLegend: false
         },
         {
           type: 'mappoint',
-          name: '如果您对位置精确度有疑欢迎提交issue，也欢迎通过PR提交新门派 https://github.com/menpai/ditu',
+          name: '如果您对位置精确度有疑欢迎提交issue，也欢迎提PR创建新门派 https://github.com/menpai/ditu',
           data: [],
           marker: {
             enabled: true,
