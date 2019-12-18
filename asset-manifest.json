@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ditu/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/ditu/static/js/main.ede21c20.chunk.js",
+    "main.js.map": "/ditu/static/js/main.ede21c20.chunk.js.map",
+    "runtime-main.js": "/ditu/static/js/runtime-main.dcb130d8.js",
+    "runtime-main.js.map": "/ditu/static/js/runtime-main.dcb130d8.js.map",
+    "static/js/2.359ad3e1.chunk.js": "/ditu/static/js/2.359ad3e1.chunk.js",
+    "static/js/2.359ad3e1.chunk.js.map": "/ditu/static/js/2.359ad3e1.chunk.js.map",
+    "index.html": "/ditu/index.html",
+    "precache-manifest.841118980348a7f84974cc42266169e7.js": "/ditu/precache-manifest.841118980348a7f84974cc42266169e7.js",
+    "service-worker.js": "/ditu/service-worker.js",
+    "static/css/main.f6cffc85.chunk.css.map": "/ditu/static/css/main.f6cffc85.chunk.css.map",
+    "static/js/2.359ad3e1.chunk.js.LICENSE": "/ditu/static/js/2.359ad3e1.chunk.js.LICENSE",
+    "static/media/map.csv": "/ditu/static/media/map.5dce9009.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcb130d8.js",
+    "static/js/2.359ad3e1.chunk.js",
+    "static/css/main.f6cffc85.chunk.css",
+    "static/js/main.ede21c20.chunk.js"
+  ]
+}
