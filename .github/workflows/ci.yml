@@ -15,6 +15,6 @@ jobs:
 
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BRANCH: release
+        BRANCH: gh-pages
         FOLDER: build
         BUILD_SCRIPT: npm install && npm run build
