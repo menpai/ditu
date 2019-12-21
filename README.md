@@ -7,6 +7,10 @@
 # 门派地图
 ![金庸武侠世界里的门派分布地图](https://raw.githubusercontent.com/menpai/ditu/master/assets/map.png)
 
+# 文章
+
+[将金庸武侠门派数字化](https://mp.weixin.qq.com/s/v3SaULwckF4Avtmcytwodg)
+
 # 参考
 
 [https://zh.wikipedia.org/wiki/金庸筆下門派列表](https://zh.wikipedia.org/wiki/金庸筆下門派列表)
