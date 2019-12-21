@@ -1,6 +1,6 @@
-<a href="https://github.com/menpai/ditu"><img src="https://raw.githubusercontent.com/menpai/ditu/master/assets/logo.png" alt="金庸武侠世界里的门派分布地图" /></a>
+<a href="https://github.com/menpai/ditu"><img src="https://raw.githubusercontent.com/menpai/ditu/master/assets/logo.png" alt="金庸武侠门派分布地图" /></a>
 
-# 金庸武侠世界里的门派分布地图
+# 金庸武侠门派分布地图
 
 [https://menpai.github.io/ditu](https://menpai.github.io/ditu)
 
