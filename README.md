@@ -15,7 +15,7 @@
 
 [https://zh.wikipedia.org/wiki/金庸筆下門派列表](https://zh.wikipedia.org/wiki/金庸筆下門派列表)
 
-# Contribute
+# 贡献代码
 
 如果您对位置精确度有疑欢迎提交issue，也欢迎通过PR提交新门派
 
