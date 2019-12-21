@@ -17,7 +17,7 @@
 
 # 贡献代码
 
-如果您对位置精确度有疑欢迎提交issue，也欢迎通过PR提交新门派
+如果您对位置精确度有疑欢迎提交issue，欢迎通过PR提交新门派
 
 # About
 ![微信公众号](https://raw.githubusercontent.com/flutter-samples/flutter-design-pattern/master/github-assets/official.png)
